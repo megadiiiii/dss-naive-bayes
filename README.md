@@ -5,7 +5,7 @@ Các bước thực hiện:
 
 Bước 1: Clone repo
 
-Bước 2: Mở bằng Pycharm
+Bước 2: Mở thư mục vừa clon bằng Pycharm (Open Folder)
 
 Bước 3: Chạy file lib_install để cài đặt
 
